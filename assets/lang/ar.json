@@ -1,0 +1,256 @@
+{
+"Setting":"الإعدادات",
+  "Skip":"تخطي",
+  "or":"أو",
+
+
+  "Enable alerts about the status of your subscription":"تمكين التنبيهات حول حالة اشتراكك",
+  "Subscription":"اشتراك",
+  "Enable alerts for new people around you":"تمكين التنبيهات لأشخاص جدد من حولك",
+  "People nearby":"الأشخاص القريبون",
+  "Turn on alerts when you are added to favorites":"قم بتشغيل التنبيهات عند إضافتك إلى المفضلة",
+  "Likes":"الإعجابات",
+  "Enable notifications for incoming messages":"تمكين التنبيهات للرسائل الواردة",
+  "Edit Notification":"تعديل الإشعارات",
+
+
+  "Email...":"بريد إلكتروني ...",
+  "Retry New password":"إعادة محاولة كلمة المرور الجديدة",
+  "New password":"كلمة مرور جديدة",
+  "Current password":"كلمة المرور الحالية",
+
+  "Change password":"تغيير كلمة المرور",
+  "My account is not visible to everyone":"حسابي غير مرئي للجميع",
+  "Show my account":"إظهار حسابي",
+  "Enabled":"ممكّن",
+  "Location":"الموقع",
+
+
+  "Welcome to HiLike! if you have any problem on HiLike,please report to us through feedback":"مرحبًا بك في HiLike! إذا كانت لديك أي مشكلة في HiLike ، فيرجى إبلاغنا من خلال التعليقات",
+  "Send message to us:":"أرسل رسالة إلينا:",
+
+
+
+  "Blocked accounts":"الحسابات المحظورة",
+  "You see the profiles that you blocked. Open them and use the buttons to unlock":"ترى الملفات الشخصية التي حظرتها. افتحها واستخدم الأزرار لإلغاء القفل",
+
+
+  "Logout":"تسجيل الخروج",
+  "Update plan":"تحديث الخطة",
+  "Support Team":"فريق الدعم",
+  "Share":"مشاركة",
+  "About us":"حول التطبيق",
+  "Usage Policy":"سياسة الاستخدام",
+  "My likes":"إعجاباتي",
+  "Blocked":"محظور",
+  "Burger Menu":"قائمة برجر",
+
+
+  "Home Country":"الوطن",
+  "Edit Profile":"تعديل الملف الشخصي",
+
+
+
+  "Who am i looking for":"من أبحث عنه",
+  "My fotos":"صوري",
+  "Edit":"تعديل",
+  "Buy status":"حالة الشراء",
+  "Profile":"الملف الشخصي",
+
+  "Choose your purchase":"اختر عملية الشراء",
+  "Buy Coins":"شراء عملات معدنية",
+
+  "Choose a gift from the list":"اختر هدية من القائمة",
+  "Choose a worthy gift and send it to the person you like So that the gift appears as an alert on your message to attract people":"اختر هدية قيمة وأرسلها إلى الشخص الذي يعجبك حتى تظهر الهدية كتنبيه في رسالتك لجذب الناس",
+  "Choose a gift alerts":"اختر تنبيهات الهدايا",
+
+
+  "Pay for your purchase":"الدفع مقابل الشراء",
+  "Buy Gifts":"شراء الهدايا",
+
+
+  "Other fotos:":"صور أخرى:",
+
+
+  "Send":"إرسال",
+  "Others":"أخري",
+  "Under 18 years old":"أقل من 18 عامًا",
+  "Photo of someone else":"صورة شخص آخر",
+  "Providing sexual services":"تقديم الخدمات الجنسية",
+  "Fraud and money transfer request":"طلب الاحتيال وتحويل الأموال",
+  "Submit a dating request":"إرسال طلب مواعدة",
+  "Publish contact information":"نشر معلومات الاتصال",
+  "Inappropriate photos":"صور غير لائقة",
+  "Inappropriate messages":"رسائل غير لائقة",
+  "Choose the reason for submitting a report":"اختر سبب إرسال التقرير",
+
+
+
+  "Shape":"الشكل",
+  "Personal information:":"المعلومات الشخصية:",
+  "Basic information:":"معلومات أساسية:",
+  "I looking for":"أبحث عن",
+  "About me":"نبذة عني",
+  "Gifts:":"الهدايا:",
+  "Submit a Report":"إرسال تقرير",
+  "Block":"حظر",
+
+  "Write message":"كتابة رسالة",
+  "Later":" في وقت لاحق",
+  "Enable":"تفعيل",
+  "Activate notifications now to make sure you don't miss any messages":"قم بتنشيط الإشعارات الآن للتأكد من عدم تفويت أي رسائل",
+  "Enable notifications!":"تمكين الإشعارات!",
+
+
+  "Liked you":"أعجبك",
+  "People liked you:":"الأشخاص المعجبين بك:",
+  "Chat with people who like you":"الدردشة مع الأشخاص المعجبين بك",
+
+
+  "Select users who are online now":"حدد المستخدمين المتصلين الآن",
+  "Online now":"متصل الآن",
+  "With foto":"لديه صورة",
+  "Select only users near me":"حدد فقط المستخدمين القريبين مني",
+  "Nearby":"قريب",
+  "From the same country":"من نفس البلد",
+  "Select only profiles with photos":"حدد الملفات الشخصية التي تحتوي على صور فقط",
+  "Distance":"المسافة",
+  "last visit":"آخر زيارة",
+  "Apply":"تطبيق",
+  "Filters":"عوامل التصفية",
+
+
+  "Chat with the people you like near you":"الدردشة مع الأشخاص الذين تحبهم بالقرب منك",
+  "Read your posts":"اقرأ مشاركاتك",
+  "Online":"متاح",
+  "Messages":"الرسائل",
+
+  "Continue now":"متابعة الآن",
+  "Most of the users are interested in seeing your profile complete all your dtd, so others ca find you and upload your page.":"يهتم معظم المستخدمين برؤية ملفك الشخصي يكمل كل ما تبذلونه من dtd ، لذلك يمكن للآخرين العثور عليك ويقومون بتحميل صفحتك",
+  "We recommend that you complete your personal page":"نوصيك بإكمال صفحتك الشخصية",
+  "You might be interested:":"قد تكون مهتمًا:",
+  "See all":"عرض الكل",
+  "Spacial people:":"الأشخاص المميزون:",
+  "Welcome to HiLike, please respect users and chat in a decent way for everyone.":" مرحبًا بك في HiLike ، يرجى احترام المستخدمين والدردشة بطريقة لائقة مع الجميع. ",
+  "Find your match":"اعثر على الشريك المناسب",
+
+  "Buy Status":"حالة الشراء",
+  "free trial 3 day":"إصدار تجريبي مجاني 3 أيام",
+  "Gold":"ذهب",
+  "Priority appearing at the top of the chat":"تظهر الأولوية في الجزء العلوي من الدردشة",
+  "Appears at the top":"يظهر في الأعلى",
+  "Priority appearing at the top of the page":"تظهر الأولوية في الجزء العلوي من الصفحة",
+  "Unlimited Chat":"دردشة غير محدودة",
+  "Advanced Search":"بحث متقدم",
+
+  "Choose payment methods":"اختر طرق الدفع",
+  "Choose a convenient payment method for the service":"اختر طريقة دفع مناسبة للخدمة",
+  "Pay now":"ادفع الآن",
+  "Your payment is guaranteed by MyFatoorah":"دفعتك مضمونة من MyFatoorah",
+  "Payment methods":"طرق الدفع",
+
+
+  "Search feed:":"موجز البحث:",
+  "Find more:":"جد أكثر:",
+  "Search...":"بحث...",
+
+  "Here you can see a list of alerts, as well as configure them":"هنا يمكنك رؤية قائمة التنبيهات ، بالإضافة إلى تهيئتها",
+  "Your alerts":"تنبيهاتك",
+  "Notification":"الإشعارات",
+
+
+  "Body":"الجسم",
+  "Skin color":"لون البشرة",
+  "Height":"لطول",
+  "Language":"اللغة",
+  "Smoking":"تدخين",
+  "Children":"الأطفال",
+  "Your job":"وظيفتك",
+  "Education":"التعليم",
+  "Type of marriage":"نوع الزواج",
+  "Social type":"النوع الاجتماعي",
+  "Religion":"الدين",
+  "Not Specify":"لم تحدد",
+  "State":"الولاية",
+  "Age":"العمر",
+  "Select your country":"حدد بلدك",
+  "Here you can set up filters for better search":"هنا يمكنك إعداد فلاتر من أجل بحث أفضل",
+  "Apply filters for search":"تطبيق عوامل التصفية للبحث",
+  "Cancel":"إلغاء",
+  "Search":"بحث",
+  "Search Filters":"مرشحات البحث",
+
+
+  "You can create new password and confirm his below":"يمكنك إنشاء كلمة مرور جديدة وتأكيدها أدناه",
+  "Create new password":"إنشاء \nكلمة مرور جديدة",
+
+  "Incorrect try again later":"خطأ حاول مرة أخرى لاحقًا",
+
+
+  "Continue":"متابعة",
+  "Complete":"تم",
+
+  "Submit":"إرسال",
+  "Resend code":"إعادة إرسال الرمز",
+  "Didn`t receive  SMS?":"ألم تتلق الرسائل القصيرة؟",
+  "We`ve sent a code to your email:":"لقد أرسلنا رمزًا إلى بريدك الإلكتروني:",
+  "Email Verification":"تأكيد \n البريد الالكتروني",
+
+
+  "We will send a new password to your email":"سنرسل كلمة مرور جديدة إلى بريدك الإلكتروني",
+
+  "Next":"التالي",
+  "Already have account?":"لديك حساب بالفعل؟",
+  "Nickname":"الاسم المستعار",
+  "Female":"أنثى",
+  "Male":"رجل",
+  "Residence Country":"بلد الإقامة",
+  "Origin Country":"بلد المنشأ",
+  "Date of birth":"تاريخ الميلاد",
+  "Confirm password...":"تأكيد كلمة المرور ...",
+  "Enter your mail...":"أدخل بريدك ...",
+
+
+  "Username...":"اسم المستخدم ...",
+  "Registration":"التسجيل",
+  "Please enter your data":"الرجاء إدخال البيانات الخاصة بك",
+
+
+  "Forgot your password?":"هل نسيت كلمة المرور؟",
+  "Dont have an account?":"ليس لديك حساب؟",
+  "Sing in":"تسجيل الدخول",
+  "Enter password...":"أدخل كلمة المرور ...",
+  "login with Email or Username...":"تسجيل الدخول بالبريد الإلكتروني أو اسم المستخدم ...",
+  "Please login to use the app":"الرجاء تسجيل الدخول لاستخدام التطبيق",
+
+  "Privacy Policy":"سياسة الخصوصية",
+  "By registering you accept the terms of use":"بالتسجيل فإنك تقبل شروط الاستخدام",
+  "contact us":"اتصل بنا",
+  "If you need help, please":"إذا كنت بحاجة إلى مساعدة ، من فضلك",
+  "Sing Up":"تسجيل",
+  "Log In":"دخول",
+  "I already have an account":"لدي حساب بالفعل",
+  "Log In with Facebook":"تسجيل الدخول باستخدام فيسبوك",
+  "Log In with Google":"تسجيل الدخول باستخدام جوجل",
+  "Log In with Apple":"تسجيل الدخول باستخدام أبل",
+  "Find the best and most suitable partner for marriage":"اعثر على الشريك الأفضل والأنسب للزواج",
+  "Welcome to Hilike":"مرحبًا بكم في Hilike",
+  "Select your language using the button to personalize the search results":"حدد لغتك باستخدام الزر لتخصيص نتائج البحث",
+  "Choose your language":"إختر لغتك",
+  "Read":"اقرا",
+  "privacy and policy":"الخصوصية والسياسة",
+  "Safety & protection":"حمايةو سلامة",
+  "Safety & protection content":"يسعى التطبيق إلى توفير أعلى مستويات الأمان والحماية لجميع مستخدميه ، وسيتم تصفية الأعضاء غير الجادين بالزواج لتقديم أفضل جودة",
+  "Use the application for those aged 18 years and over":"استخدم التطبيق لمن هم بعمر 18 سنة وما فوق",
+  "Over 18 years old":"فوق 18 سنة",
+  "Public morals":"الآداب العامة",
+  "Public morals content":"يتماشى مع الشريعة الإسلامية وقيم المجتمع والأخلاق العامة ، بصرف النظر عن برامج المواعدة التي تفتقر إلى الجدية وغير الآمنة.",
+"Mission":"رسالة",
+"MissionContent":"يهدف التطبيق إلى التعارف والزواج الرسمي لتحقيق أهدافك والبحث عن الشريك الأفضل والأنسب بطريقة عصرية وسريعة وآمنة",
+"ChooseTheLanguage":"اختار اللغة"
+
+
+}
+
+
+
